@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.content {
+  min-height: 100%;
+  margin: 0 auto -206px;
+}
+
+.footer, .push {
+  height: 100px;
+  background-color: blueviolet;
+}
