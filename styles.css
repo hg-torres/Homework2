@@ -1,14 +1,8 @@
-html, body {
-  height: 100%;
-  margin: 0;
+.indigo {
+  background-color: #6610f2;
 }
 
-.content {
-  min-height: 100%;
-  margin: 0 auto -206px;
-}
-
-.footer, .push {
-  height: 100px;
-  background-color: blueviolet;
+.contact-me-icon-size {
+  height: 32 px;
+  width: 32 px;
 }
